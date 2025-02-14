@@ -80,5 +80,5 @@ The registration form allows prospective students to register by providing:
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, please contact [guruyash2109@gmail.com"](mailto:guruyash2109@gmail.com).
 
